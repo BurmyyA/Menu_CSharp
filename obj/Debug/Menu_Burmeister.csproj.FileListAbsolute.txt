@@ -1,0 +1,10 @@
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\bin\Debug\Menu_Burmeister.exe.config
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\bin\Debug\Menu_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\bin\Debug\Menu_Burmeister.pdb
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.csprojAssemblyReference.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.Form1.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.Properties.Resources.resources
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.csproj.GenerateResource.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.exe
+\\et-fileserver\students\2024\jordanburmeister24\Desktop\Developing_Desktop_Applications\Unit_3\Menu_Burmeister\obj\Debug\Menu_Burmeister.pdb
